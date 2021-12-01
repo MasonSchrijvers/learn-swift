@@ -22,4 +22,4 @@ for i in 0 ..< message.count {
   
 }
 
-print(message)
+print(String(message))
